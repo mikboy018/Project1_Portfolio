@@ -1,0 +1,76 @@
+body {
+	font-size: 20px;
+	background-color: #EEFEFF;
+}
+
+.heading{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.logo{
+	width: 25%;
+}
+
+.info{
+	text-align: right;
+	margin-left: 75%;
+}
+
+.coverPhoto{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.featuredWork{
+	width: 100%;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.box{
+	width: 33%;
+}
+
+.workA{
+
+}
+
+.workB{
+
+}
+
+.workC{
+
+}
+
+.workD{
+
+}
+
+.workE{
+
+}
+
+.workF{
+
+}
+
+.title{
+	font-size: 22px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.workImg{
+	width: 100%;
+}
+
+.link{
+	align-self: center;
+}
